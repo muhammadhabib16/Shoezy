@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import SearchField from "./SearchField";
-import MenuIcons from "./menuicons";
+import MenuIcons from "./MenuIcons";
 
 export default function Navbar() {
   return (
