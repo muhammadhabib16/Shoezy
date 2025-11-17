@@ -1,5 +1,5 @@
 import { useLocation } from "react-router-dom";
-import Breadcrumb from "./BreadCrumb";
+import Breadcrumb from "./Breadcrumb";
 import { useAuth } from "../context/AuthContext";
 
 export default function DynamicBreadcrumb() {
